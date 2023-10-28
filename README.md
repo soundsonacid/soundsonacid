@@ -1,4 +1,15 @@
-### Hi there 👋
+### frank (soundsonacid)
+
+i like to write code 
+
+i build a lot of things in rust
+
+feel free to reach out at any of the following for any contracting work you may need done (solana / rust / ts)
+
+soundsonacid@gmail.com
+twitter: soundsonacid
+telegram: soundsonacid
+discord: soundsonacid
 
 <!--
 **soundsonacid/soundsonacid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
