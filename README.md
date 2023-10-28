@@ -7,8 +7,11 @@ i build a lot of things in rust
 feel free to reach out at any of the following for any contracting work you may need done (solana / rust / ts)
 
 soundsonacid@gmail.com
+
 twitter: soundsonacid
+
 telegram: soundsonacid
+
 discord: soundsonacid
 
 <!--
