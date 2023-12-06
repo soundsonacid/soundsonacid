@@ -1,10 +1,10 @@
 ### frank (soundsonacid)
 
-i like to write code 
+i like to write high performance code 
 
-i build a lot of things in rust
+rust / ts / now python too
 
-feel free to reach out at any of the following for any contracting work you may need done (solana / rust / ts)
+contact:
 
 soundsonacid@gmail.com
 
