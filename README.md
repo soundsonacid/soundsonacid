@@ -1,8 +1,8 @@
 ### frank (soundsonacid)
 
-i like to write high performance code 
+i like to write high performance code (currently for drift labs)
 
-rust / ts / now python too
+rust / python 
 
 contact:
 
